@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.892517ff.css",
+    "main.js": "/my-website/static/js/main.f8ceaba7.js",
+    "static/media/resume.pdf": "/my-website/static/media/resume.0fd8e171e6190d30fb46.pdf",
+    "static/media/img-1.png": "/my-website/static/media/img-1.6a32a3643caaf2532262.png",
+    "static/media/portfolio1.png": "/my-website/static/media/portfolio1.50a9259c25056e777359.png",
+    "static/media/portfolio2.png": "/my-website/static/media/portfolio2.227f933f8e0de09d8604.png",
+    "static/media/portfolio4.png": "/my-website/static/media/portfolio4.d860fe7d491d57962042.png",
+    "static/media/portfolio3.png": "/my-website/static/media/portfolio3.0dbad70c379c5bd83eef.png",
+    "static/media/portfolio5.png": "/my-website/static/media/portfolio5.339eb39dfe049642c999.png",
+    "static/media/portfolio6.png": "/my-website/static/media/portfolio6.beddd5e5e9bad49bd3cc.png",
+    "index.html": "/my-website/index.html",
+    "main.892517ff.css.map": "/my-website/static/css/main.892517ff.css.map",
+    "main.f8ceaba7.js.map": "/my-website/static/js/main.f8ceaba7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.892517ff.css",
+    "static/js/main.f8ceaba7.js"
+  ]
+}
