@@ -34,7 +34,7 @@ const About = () => {
           </div>
 
           <p>
-            I'm a Developer with speciaty in Back-End development,system
+            I'm a Developer with speciaty in Faront End development, Back-End development,system
             functionality and Database Design. I am outgoing, dedicated,and
             open-minded. I get across to people and adjust to changes easily.
             Its my belief that someone should work on developing their
