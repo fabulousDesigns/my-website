@@ -19,7 +19,7 @@ const About = () => {
             <article className="about__card">
               <SiBookmeter />
               <h5>Experience</h5>
-              <small>1+ Years of Working</small>
+              <small>3+ Years of Working</small>
             </article>
             <article className="about__card">
               <SiBookmeter />
