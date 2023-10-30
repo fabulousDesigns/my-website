@@ -1,3 +1,5 @@
+import React from "react";
+
 import { BsGithub } from "react-icons/bs";
 
 const Socials = () => {

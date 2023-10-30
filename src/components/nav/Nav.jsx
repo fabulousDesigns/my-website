@@ -1,3 +1,4 @@
+import React from "react";
 import "./nav.css";
 import { BiHomeCircle } from "react-icons/bi";
 import { FcAbout } from "react-icons/fc";

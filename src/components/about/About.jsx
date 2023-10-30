@@ -1,3 +1,4 @@
+import React from "react";
 import "./about.css";
 import ME from "../../assets/img-1.png";
 import { SiBookmeter } from "react-icons/si";

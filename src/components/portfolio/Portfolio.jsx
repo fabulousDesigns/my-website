@@ -1,4 +1,5 @@
 /* eslint-disable array-callback-return */
+import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/portfolio1.png";
 import IMG2 from "../../assets/portfolio2.png";
